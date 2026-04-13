@@ -1,0 +1,6 @@
+101 ; multipla ; Um projeto atrasou em duas semanas devido a um fornecedor. O que voce faz? ;a- Notificar o cliente e renegociar o prazo;b- Substituir o fornecedor imediatamente;c- Trabalhar horas extras sem avisar ninguem;d- Ignorar o atraso e esperar que nao percebam
+102 ; texto ; Descreva qual a principal caracteristica que voce busca em um gestor de projetos junior. ; O aluno deve descrever proatividade e organizacao.
+103 ; multipla ; Durante uma reuniao, dois lideres de equipe divergem agressivamente. Qual sua postura? ;a- Interromper e mediar a conversa de forma neutra;b- Gritar mais alto para impor autoridade;c- Escolher um lado publicamente;d- Encerrar a reuniao sem resolver o conflito
+104 ; texto ; Explique como voce lidaria com um pedido de aumento de um funcionario exemplar em um momento de crise financeira da empresa. ; O aluno deve argumentar sobre transparencia e beneficios nao-monetarios.
+105 ; multipla ; Um novo funcionario cometeu um erro grave no primeiro dia. Qual a ação correta? ;a- Realizar um feedback orientativo e treinamento;b- Demitir no ato para servir de exemplo;c- Ignorar o erro para nao desmotiva-lo;d- Pedir para outro colega corrigir em segredo
+106 ; texto ; Qual a primeira ação ao identificar que o fluxo de caixa da empresa ficara negativo no proximo mes? ; Renegociar prazos com fornecedores e antecipar recebiveis.
